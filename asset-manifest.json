@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio_website/static/css/main.d9898e3b.css",
+    "main.js": "/portfolio_website/static/js/main.496b423f.js",
+    "static/media/portfolio.png": "/portfolio_website/static/media/portfolio.080e8f315fd119b0fd93.png",
+    "static/media/certificate3.png": "/portfolio_website/static/media/certificate3.c7ce5c9e1120adcce173.png",
+    "static/media/travel.png": "/portfolio_website/static/media/travel.9d927a5ca058d11c3020.png",
+    "static/media/certificate4.png": "/portfolio_website/static/media/certificate4.34c4bf91d0f3b75c7e4c.png",
+    "static/media/bannerImg.png": "/portfolio_website/static/media/bannerImg.49cc1328f16f4cfcbbd9.png",
+    "static/media/stockguru.jpg": "/portfolio_website/static/media/stockguru.b3fca845a87833afdcec.jpg",
+    "static/media/calculator.png": "/portfolio_website/static/media/calculator.ce8d9953388328974e60.png",
+    "static/media/certificate6.png": "/portfolio_website/static/media/certificate6.fe03ac19480065e513b5.png",
+    "static/media/certificate8.png": "/portfolio_website/static/media/certificate8.000d92f7ca8105112f78.png",
+    "static/media/education.png": "/portfolio_website/static/media/education.70eea41b52b712fd414d.png",
+    "static/media/certificate5.png": "/portfolio_website/static/media/certificate5.88cefb34d672bd333664.png",
+    "static/media/certificate1.png": "/portfolio_website/static/media/certificate1.07b15d01bf9c073cc97d.png",
+    "static/media/certificate2.png": "/portfolio_website/static/media/certificate2.daef88a9b0febaf1b3af.png",
+    "static/media/contactImg.png": "/portfolio_website/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/portfolio_website/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/portfolio_website/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/portfolio_website/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/portfolio_website/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/portfolio_website/index.html",
+    "main.d9898e3b.css.map": "/portfolio_website/static/css/main.d9898e3b.css.map",
+    "main.496b423f.js.map": "/portfolio_website/static/js/main.496b423f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9898e3b.css",
+    "static/js/main.496b423f.js"
+  ]
+}
