@@ -79,7 +79,7 @@ const Navbar = () => {
   </h2>
   <div className="flex gap-4">
     <a
-      href="https://www"
+      href="https://www.linkedin.com/in/vivek-maurya-93a549252/"
       target="_blank"
       rel="noopener noreferrer"
       className="bannerIcon"
