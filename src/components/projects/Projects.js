@@ -6,6 +6,10 @@ import education from "../../assets/images/projects/education.png";
 import calculator from "../../assets/images/projects/calculator.png";
 import travel from "../../assets/images/projects/travel.png";
 import portfolio from "../../assets/images/projects/portfolio.png";
+import medicare from "../../assets/images/projects/medicare.png";
+import Mynote from "../../assets/images/projects/Mynote.png";
+import Room_Guru from "../../assets/images/projects/Room_Guru.png";
+
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
@@ -24,7 +28,7 @@ const Projects = () => {
       des: "Language Used: HTML, CSS, JS",
       src: education,
       githubLink: "https://github.com/Vivek1893/Education_website",
-      liveLink: "https://extraordinary-chebakia-311f57.netlify.app/",
+      liveLink: "https://educsite.netlify.app/",
     },
     {
       title: "E-Yatra Travels",
@@ -33,13 +37,28 @@ const Projects = () => {
       githubLink: "https://github.com/Vivek1893/Codsoft/tree/main/e-Yatra-travels%20landing%20page",
       liveLink: "https://e-yatra-traveling.netlify.app/",
     },
-    {
-      title: "calculator",
-      des: "Language Used: HTML, CSS, JS",
-      src: calculator,
-      githubLink: "https://github.com/Vivek1893/Codsoft/tree/main/Calculator",
-      liveLink: "https://github.com/Vivek1893/Codsoft/tree/main/Calculator",
+     {
+      title: "Medicare-Booking",
+      des: "Language Used: React.js, Tailwind CSS, Node.js, Express.js, MongoDB",
+      src: medicare,
+      githubLink: "https://github.com/Vivek1893/Medicare-Booking",
+      liveLink: "https://medicare-booking-fo8f.onrender.com/",
     },
+     {
+      title: "Mynotes",
+      des: "Language Used: ReactJS, NodeJS, ExpressJS, MongoDB",
+      src: Mynote,
+      githubLink: "https://github.com/Vivek1893/Mynotes",
+      liveLink: "https://mynotes-kmor.onrender.com/",
+    },
+    {
+      title: "Room_Guru",
+      des: "Language Used:  ReactJS, Tailwind CSS, Node.js, Express.js, MongoDB",
+      src: Room_Guru,
+      githubLink: "https://github.com/Vivek1893/Project1",
+      liveLink: "https://project1-live-link.com",
+    },
+    
     {
       title: "Portfolio",
       des: "Language Used: HTML, CSS, JS, ReactJS",
@@ -48,19 +67,22 @@ const Projects = () => {
       liveLink: "https://github.com/Vivek1893/Codsoft/tree/main/vivek%20Portfolio",
     },
     {
+      title: "calculator",
+      des: "Language Used: HTML, CSS, JS",
+      src: calculator,
+      githubLink: "https://github.com/Vivek1893/Codsoft/tree/main/Calculator",
+      liveLink: "https://github.com/Vivek1893/Codsoft/tree/main/Calculator",
+    },
+   
+    
+    {
       title: "Chatting App",
       des: "Language Used: HTML, CSS, JS, ReactJS",
       src: projectTwo,
       githubLink: "https://github.com/Vivek1893/Project1",
       liveLink: "https://project1-live-link.com",
     },
-    // {
-    //   title: "Chatting App",
-    //   des: "Language Used: HTML, CSS, JS, ReactJS",
-    //   src: projectTwo,
-    //   githubLink: "https://github.com/Vivek1893/Project1",
-    //   liveLink: "https://project1-live-link.com",
-    // },
+    
     // {
     //   title: "Chatting App",
     //   des: "Language Used: HTML, CSS, JS, ReactJS",
@@ -103,4 +125,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+export default Projects; 
