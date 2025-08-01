@@ -16,7 +16,7 @@
     "react-icons": "^5.4.0",
     "react-infinite-scroll-component": "^6.1.0",
     "react-scripts": "5.0.1",
-    "react-scroll": "github:fisshy/react-scroll#master",
+    "react-scroll": "^1.8.7",
     "react-simple-typewriter": "^5.0.1",
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4",
@@ -49,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.27.1",
     "gh-pages": "^6.3.0",
     "tailwindcss": "^3.4.17"
   }
