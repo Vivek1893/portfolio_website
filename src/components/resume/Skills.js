@@ -11,17 +11,17 @@ import { GiDatabase } from "react-icons/gi";
 import { IoIosStats } from "react-icons/io";  
 
 const skillsData = [
-  {
-    category: "Languages",
-    skills: [
-      { name: "HTML5", icon: <FaHtml5 className="text-orange-600" /> },
-      { name: "CSS3", icon: <FaCss3Alt className="text-blue-600" /> },
-      { name: "JavaScript", icon: <FaJs className="text-yellow-500" /> },
-      { name: "Node.js", icon: <FaNodeJs className="text-green-600" /> },
-      { name: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
-      { name: "Java", icon: <FaJava className="text-red-600" /> },
-    ],
-  },
+  // {
+  //   category: "Languages",
+  //   skills: [
+  //     { name: "HTML5", icon: <FaHtml5 className="text-orange-600" /> },
+  //     { name: "CSS3", icon: <FaCss3Alt className="text-blue-600" /> },
+  //     { name: "JavaScript", icon: <FaJs className="text-yellow-500" /> },
+  //     { name: "Node.js", icon: <FaNodeJs className="text-green-600" /> },
+  //     { name: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
+  //     { name: "Java", icon: <FaJava className="text-red-600" /> },
+  //   ],
+  // },
   {
     category: "Frameworks",
     skills: [
@@ -54,9 +54,8 @@ const skillsData = [
     category: "Databases",
     skills: [
       { name: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
-      { name: "PostgreSQL", icon: <SiPostgresql className="text-blue-700" /> },
       { name: "SQL", icon: <GiDatabase className="text-gray-600" /> },
-      { name: "General Databases", icon: <GiDatabase className="text-gray-600" /> },
+ 
     ],
   },
   {
