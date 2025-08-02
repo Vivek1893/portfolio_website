@@ -55,8 +55,8 @@ const Projects = () => {
       title: "Room_Guru",
       des: "Language Used:  ReactJS, Tailwind CSS, Node.js, Express.js, MongoDB",
       src: Room_Guru,
-      githubLink: "https://github.com/Vivek1893/Project1",
-      liveLink: "https://project1-live-link.com",
+      githubLink: "https://github.com/Vivek1893/Room_Guru",
+      liveLink: "https://drive.google.com/file/d/1uDr9tyOJ9sh2D79iirhHb8_T6jy0Epz2/view?usp=drive_link",
     },
     
     {
