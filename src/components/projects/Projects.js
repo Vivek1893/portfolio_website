@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import Title from "../layouts/Title";
 import {  projectTwo } from "../../assets/index";
+import mnacaptial from "../../assets/images/projects/mnacaptial.png";
+import goodwill from "../../assets/images/projects/goodwill.png";
 import stockguru from "../../assets/images/projects/stockguru.jpg";
 import education from "../../assets/images/projects/education.png";
 import calculator from "../../assets/images/projects/calculator.png";
@@ -16,6 +18,20 @@ const Projects = () => {
   const [showAll, setShowAll] = useState(false);
 
   const projects = [
+     {
+      title: "MNA Captial (Freelancing project)",
+      des: "Language Used: Reactjs, Tailwind css,Contentful api",
+      src: mnacaptial,
+      githubLink: "https://github.com/Vivek1893/MNALLP.git",
+      liveLink: "https://mnacaps.com/",
+    },
+        {
+      title: "The GoodWill Facade (Freelancing project)",
+      des: "Language Used: Reactjs, Tailwind css,Contentful api",
+      src: goodwill,
+      githubLink: "https://github.com/Vivek1893/TheGoodWillFacade.git",
+      liveLink: "https://thegoodwillfacade.onrender.com/",
+    },
     {
       title: "AiStock_Guru",
       des: "Language Used: Reactjs, Tailwind css,",
